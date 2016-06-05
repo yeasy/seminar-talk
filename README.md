@@ -10,3 +10,6 @@ Devops seminar for bluemix meetup.
 
 ## [OpenStack Neutron](openstack-networking)
 Introduction on Openstack networking project - Neutron.
+
+## [OpenStack Summit](openstack-summit-201510)
+Container networking seminar for openstack summit.
