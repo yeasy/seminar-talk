@@ -22,5 +22,8 @@ Blockchain as a Service platform seminar.
 ## [Hyperledger Meetup 2016](hyperledger-meetup-20161225)
 Hyperledger Meetup 2016 in Beijing, introduce the fabric setup.
 
-## [Hyperledger Meetup 2017](hyperledger-meetup-20170107)
+## [Hyperledger Meetup 2017 in Shenzhen](hyperledger-meetup-20170107)
 Hyperledger Meetup 2017 in Shenzhen, introduce the hyperledger project and fabric setup.
+
+## [Hyperledger Meetup 2017 in Shanghai](hyperledger-meetup-20170304)
+Hyperledger Meetup 2017 in Shanghai, introduce the hyperledger projects, community and fabric 1.0.
