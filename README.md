@@ -6,13 +6,13 @@ Some seminar talk slides.
 ### [OpenStack Neutron](openstack-networking)
 Introduction on Openstack networking project - Neutron.
 
-### [Docker Technical Notes](docker-tech-notes)
+### [Docker](docker-tech-notes)
 Some training slides of docker technical overview.
 
-### [Block 101](blockchain-101)
+### [Blockchain](blockchain-101)
 Basic introduction on blockchain techniques.
 
-### [Hyperledger Technical Notes](hyperledger-tech-notes)
+### [Hyperledger](hyperledger-tech-notes)
 Some technical slides on hyperledger project, community, fabric arch, design, development, etc.
 
 
