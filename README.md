@@ -35,3 +35,6 @@ Hyperledger Meetup 2017 in Shenzhen, introduce the hyperledger project and fabri
 
 ### [Hyperledger Meetup 2017: Shanghai](hyperledger-meetup-20170304)
 Hyperledger Meetup 2017 in Shanghai, introduce the hyperledger projects, community and fabric 1.0.
+
+### [Qcon 2017: Beijing](qcon-20170417)
+Qcon 2017 in Beijing, introduce the hyperledger fabric 1.0 architecture design and application development.
