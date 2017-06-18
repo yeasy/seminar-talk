@@ -15,7 +15,6 @@ Basic introduction on blockchain techniques.
 ### [Hyperledger](hyperledger-tech-notes)
 Some technical slides on hyperledger project, community, fabric arch, design, development, etc.
 
-
 ## Seminars
 
 ### [Bluemix Devops Seminar 2015: Beijing](bluemix-meetup-201505)
@@ -38,3 +37,9 @@ Hyperledger Meetup 2017 in Shanghai, introduce the hyperledger projects, communi
 
 ### [Qcon 2017: Beijing](qcon-20170417)
 Qcon 2017 in Beijing, introduce the hyperledger fabric 1.0 architecture design and application development.
+
+### [Hyperledger Workshop 2017: Beijing](hyperledger-workshop-20170618)
+Hyperledger workshop 2017 in Beijing, introduce the hyperledger projects, community and fabric 1.0 architecture design.
+
+### [Hyperledger Hackfest 2017: Beijing](hyperledger-hackfest-20170619)
+Hyperledger hackfest 2017 in Beijing, introduce the hyperledger cello project: overview, architecture, and roadmap.
