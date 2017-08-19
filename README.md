@@ -43,3 +43,6 @@ Hyperledger workshop 2017 in Beijing, introduce the hyperledger projects, commun
 
 ### [Hyperledger Hackfest 2017: Beijing](hyperledger-hackfest-20170619)
 Hyperledger hackfest 2017 in Beijing, introduce the hyperledger cello project: overview, architecture, and roadmap.
+
+### [Hyperledger Meetup 2017: Beijing](hyperledger-meetup-20170819)
+Hyperledger Meetup 2017 in Beijing, introduce the technical working group in China.
