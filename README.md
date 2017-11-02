@@ -47,5 +47,5 @@ Hyperledger hackfest 2017 in Beijing, introduce the hyperledger cello project: o
 ### [Hyperledger Meetup 2017: Beijing](hyperledger-meetup-20170819)
 Hyperledger Meetup 2017 in Beijing, introduce the technical working group in China.
 
-### [NDBC: Hangzhou](ndbc-20171021)
+### [NDBC 2017: Hangzhou](ndbc-20171021)
 National Database Conf in Hangzhou, introduce the research challenges and opportunities in blockchain and database area.
