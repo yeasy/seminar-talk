@@ -17,6 +17,9 @@ Some technical slides on hyperledger project, community, fabric arch, design, de
 
 ## Seminars
 
+### [Hyperledger Meetup 2017: Beijing](hyperledger-meetup-20171210)
+Hyperledger meetup in beijing, introduce the latest update of hyperledger community and projects.
+
 ### [Tsinghua Graduate Course 2017: Beijing](tsinghua-graduate-20171130)
 Graduate student course in Tsinghua University.
 
