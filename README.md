@@ -17,6 +17,9 @@ Some technical slides on hyperledger project, community, fabric arch, design, de
 
 ## Seminars
 
+### [Tsinghua SEM Forum](tsinghua-sem-20181427)
+Introduce the source, existing key techniques and future of blockchain and DLT in Tsinghua University.
+
 ### [Hyperledger Meetup 2017: Beijing](hyperledger-meetup-20171210)
 Hyperledger meetup in beijing, introduce the latest update of hyperledger community and projects.
 
