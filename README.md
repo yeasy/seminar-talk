@@ -17,10 +17,13 @@ Some technical slides on hyperledger project, community, fabric arch, design, de
 
 ## Seminars
 
+### [Hyperledger Meetup Beijing, May 2018](hyperledger-meetup-20180527)
+Introduce the problem and state-of-art progress of distributed ledger technologies, along with hyperledger project.
+
 ### [Tsinghua SEM Forum](tsinghua-sem-20180427)
 Introduce the source, existing key techniques and future of blockchain and DLT in Tsinghua University.
 
-### [Hyperledger Meetup 2017: Beijing](hyperledger-meetup-20171210)
+### [Hyperledger Meetup Beijing, Dec 2017](hyperledger-meetup-20171210)
 Hyperledger meetup in beijing, introduce the latest update of hyperledger community and projects.
 
 ### [Tsinghua Graduate Course 2017: Beijing](tsinghua-graduate-20171130)
@@ -29,7 +32,7 @@ Graduate student course in Tsinghua University.
 ### [NDBC 2017: Hangzhou](ndbc-20171021)
 National Database Conf in Hangzhou, introduce the research challenges and opportunities in blockchain and database area.
 
-### [Hyperledger Meetup 2017: Beijing](hyperledger-meetup-20170819)
+### [Hyperledger Meetup Beijing, Aug 2017](hyperledger-meetup-20170819)
 Hyperledger Meetup 2017 in Beijing, introduce the technical working group in China.
 
 ### [Hyperledger Hackfest 2017: Beijing](hyperledger-hackfest-20170619)
