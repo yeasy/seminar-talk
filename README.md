@@ -17,6 +17,9 @@ Some technical slides on hyperledger project, community, fabric arch, design, de
 
 ## Seminars
 
+### [Hyperledger Global Forum in Phoenix, Mar 2020](hyperledger-global-forum-20200304)
+Share practical requirements, challenges and best practices in using hyperledger fabric to implement blockchain platforms.
+
 ### [Hyperledger Meetup Beijing, May 2018](hyperledger-meetup-20180527)
 Introduce the problem and state-of-art progress of distributed ledger technologies, along with hyperledger project.
 
